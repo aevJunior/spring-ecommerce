@@ -12,7 +12,7 @@
 	<artifactId>spring-ecommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-ecommerce</name>
-	<description>Curso de Spring proyecto ecommerce</description>
+	<description>git log</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
